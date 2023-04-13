@@ -1,1 +1,1 @@
-print("odoo14")
+print("ODOO14")
